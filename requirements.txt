@@ -1,0 +1,7 @@
+numpy
+pandas
+Pillow==8.2.0
+tensorboard
+torch==1.9.0
+torchvision==0.10.0
+tqdm==4.61.1
